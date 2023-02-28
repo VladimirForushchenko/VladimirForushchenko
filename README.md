@@ -50,7 +50,7 @@
   height="40" />&nbsp;
 
 
-### My stat
+<!-- ### My stat
 
 <div id="stat" align="center">
   <img
@@ -62,13 +62,13 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirForushchenko&theme=github_dark"
     alt="" />
-</div>
+</div> -->
 
 ## 📈 GitHub Stats
 
 ![EnjiRouz GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
+Stats](https://github-readme-stats.vercel.app/api?username=VladimirForushchenko_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirForushchenko&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 ---
