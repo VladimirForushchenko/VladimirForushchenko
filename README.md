@@ -1,18 +1,16 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <h1>Hi there, I'm Ivan </h1>
-  <h3>Full Stack Developer from New York</h3>
+  <h1>Hi there, I'm Volodymyr </h1>
+  <h3>Javascript Front-End Developer</h3>
 </div>
 
 <div id="socials" align="center">
-  <a href="linkedin-url">
+  <a href="https://www.linkedin.com/in/volodymyr-forushchenko-web-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
   </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter" />
+  <a href="https://www.facebook.com/profile.php?id=100014390620011">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="facebook" />
   </a>
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
@@ -49,3 +47,19 @@
   height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40"
   height="40" />&nbsp;
+
+
+### My stat
+
+<div id="stat" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"
+    alt="" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"
+    alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"
+    alt="" />
+</div>
+
+---
