@@ -20,12 +20,12 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌱 I am always learning and developing in the endless world of Front-End development
+- 📝 I really like to work in a team and motivate everyone
+- 📄 Know about my experiences [CV](https://eloquent-pithivier-0e7e26.netlify.app/)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/volodymyr-forushchenko-web-developer/),
+[email](mailto:forusvy@gmail.com)
 - 🌍 I speak English
-
 
 
 ### Languages and tools
@@ -40,7 +40,7 @@
   height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40"
   height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="angular" width="40"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vue" width="40"
   height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40"
   height="40" />&nbsp;
