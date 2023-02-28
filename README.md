@@ -59,8 +59,16 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirForushchenko&theme=github_dark"
     alt="" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirForushchenko&theme=github_dark"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirForushchenko&theme=github_dark"
     alt="" />
 </div>
+
+## 📈 GitHub Stats
+
+![EnjiRouz GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 ---
