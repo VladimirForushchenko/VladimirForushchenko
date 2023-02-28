@@ -5,15 +5,15 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://www.linkedin.com/in/volodymyr-forushchenko-web-developer/">
+  <a href="https://www.linkedin.com/in/volodymyr-forushchenko-web-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100014390620011">
+  <a href="https://www.facebook.com/profile.php?id=100014390620011" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"
       alt="facebook" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5879681394">
+  <a href="https://api.whatsapp.com/send?phone=5879681394" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white"
       alt="Whatsapp" />
   </a>
