@@ -67,7 +67,7 @@
 ## 📈 GitHub Stats
 
 ![VladimirForushchenko GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=VladimirForushchenko_private=true&hide=contribs&show_icons=true&theme=radical)
+Stats](https://github-readme-stats.vercel.app/api?username=VladimirForushchenko&hide=contribs&show_icons=true&theme=radical)
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirForushchenko&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
