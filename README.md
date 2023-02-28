@@ -9,7 +9,7 @@
       alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014390620011">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=facebook&logoColor=white"
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"
       alt="facebook" />
   </a>
   <a href="telegram-url">
