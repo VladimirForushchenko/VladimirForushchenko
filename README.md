@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Volodymyr. Welcome 👋</h1>
-  <h3>Javascript Front-End Developer</h3>
+  <h3>JavaScript Front-End Developer</h3>
   <h4>I bring order to the chaos, turn coffee into code, automate processes, constantly develop</h4>
 </div>
 
@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"
       alt="facebook" />
   </a>
-  <a href="telegram-url">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram" />
+  <a href="https://api.whatsapp.com/send?phone=5879681394">
+    <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="Whatsapp" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
----
+
 
 ### Languages and tools
 
